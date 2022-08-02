@@ -1,3 +1,3 @@
 @echo off
 
-main.js
+node "D:\M.E.I discord bot\main.js"
